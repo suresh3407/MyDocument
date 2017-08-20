@@ -10,4 +10,5 @@ git config --list
 ->git add --all
 -> git commit -m "commit_msg"
 -> git push origin master
-
+//download project
+-> git clone "repository naame"

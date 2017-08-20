@@ -1,0 +1,22 @@
+git --version // to check version of git
+git config --global user.name "name" // to set the user name;
+git config --global user.email "email" //to set the user mail;
+git config --list
+-> craete account in git hub;
+->create Rpository on that account;
+->project file 
+-> git init
+->git remote add origin Repository_url;
+->git add --all
+-> git commit -m "commit_msg"
+-> git push origin master
+//to chnage pparticular file
+-> git status //to check satus
+-> git add "file name"
+-> git commit
+-> git push origin master
+->git commit
+
+//to create the branch
+ 
+-> git checkout -b "branch_Name"
